@@ -2,7 +2,9 @@
 using namespace std;
 
 int main() {
-   int numero, primo numero=1, secondo numero=1;
+   int numero;
+   int primo numero=1;
+   int secondo numero=1;
     cin>>numero;
     if (numero>=2) {
         cout<<primoNumero<<endl<<secondoNumero<<endl;
