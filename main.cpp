@@ -19,7 +19,7 @@ int main() {
         }
     }
     else {
-        cout<<"errore"endl;
+        cout<<"errore"<<endl;
     }
    return 0;
 }
