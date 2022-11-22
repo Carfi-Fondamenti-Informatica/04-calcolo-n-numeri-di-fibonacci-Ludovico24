@@ -3,8 +3,8 @@ using namespace std;
 
 int main() {
    int numero;
-   int primo numero=1;
-   int secondo numero=1;
+   int primoNumero=1;
+   int secondoNumero=1;
     cin>>numero;
     if (numero>=2) {
         cout<<primoNumero<<endl<<secondoNumero<<endl;
@@ -19,7 +19,7 @@ int main() {
         }
     }
     else {
-        cout<<"errore";
+        cout<<"errore"endl;
     }
    return 0;
 }
